@@ -24,6 +24,8 @@
 
 ## 分治法求解举例
 - [二分查找](https://github.com/imwtr/data-structure-algorithm/blob/master/algorithm/search/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+- [费波纳茨数列尾递归优化](https://github.com/imwtr/data-structure-algorithm/blob/master/algorithm/divide%20and%20conquer/%E8%B4%B9%E6%B3%A2%E7%BA%B3%E8%8C%A8%E6%95%B0%E5%88%97%E5%B0%BE%E9%80%92%E5%BD%92%E4%BC%98%E5%8C%96.md)
+- [变态跳台阶](https://github.com/imwtr/data-structure-algorithm/blob/master/algorithm/divide%20and%20conquer/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
 - 大整数乘法
 - Strassen矩阵乘法
 - 棋盘覆盖
