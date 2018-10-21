@@ -10,7 +10,7 @@ O(n)
 ## 说明
 KMP算法思想为：利用之前已经部分匹配这个有效信息，保持目标串位置i不回溯，通过修改模式串位置j，让模式串尽量地移动到有效的位置
 
-![深入了解](https://blog.csdn.net/v_july_v/article/details/7041827)
+[深入了解](https://blog.csdn.net/v_july_v/article/details/7041827)
 
 
 ## 实现
