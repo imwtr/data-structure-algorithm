@@ -19,7 +19,9 @@
 4. 根据计算最优值时得到的信息，构造问题的最优解
 
 ## 动态规划求解举例
-- 矩阵连乘，
+- [费波纳茨数列](https://github.com/imwtr/data-structure-algorithm/blob/master/algorithm/dynamic%20programming/%E8%B4%B9%E6%B3%A2%E7%BA%B3%E8%8C%A8%E6%95%B0%E5%88%97.md)
+- [跳台阶](https://github.com/imwtr/data-structure-algorithm/blob/master/algorithm/dynamic%20programming/%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
+- 矩阵连乘
 - 走金字塔
 - 最长公共子序列(LCS) 
 - 最长递增子序列(LIS) 
